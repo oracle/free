@@ -86,13 +86,20 @@ Table of Contents
   * [Oracle TimesTen In-Memory Database Express Edition](https://www.oracle.com/database/technologies/related/timesten-xe.html) - the fastest OLTP database
 
 ## Java
-  * [Graal VM Community](https://www.graalvm.org/) - Run Programs Faster Anywhere
+  * [GraalVM](https://www.graalvm.org/) - High Performance JDK with JIT and AOT compilation
   * [Helidon](https://helidon.io) - a set of Java libraries for writing microservices
   * [Java](https://www.oracle.com/java/technologies/) - the Language of Possibilities
   * [VisualVM](https://visualvm.github.io/) - All-in-One Java Troubleshooting Tool
 
 ## JavaScript
   * [JavaScript Extension Toolkit (JET)](https://oracle.com/jet) - collection of open source JavaScript libraries
+  * [GraalJS](https://www.graalvm.org/javascript/) - Run JavaScript applications faster and more efficiently on GraalVM
+
+## Python
+  * [GraalPy](https://www.graalvm.org/python/) - High-Performance Python runtime powered by GraalVM
+
+## Ruby
+  * [TruffleRuby](https://www.graalvm.org/ruby/) - Run Ruby applications faster and more efficiently on GraalVM 
 
 ## Machine Learning
   * [Tribuo](https://tribuo.org/) - Machine learning library written in Java
