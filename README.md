@@ -19,6 +19,8 @@ Table of Contents
   * [JavaScript](#javascript)
   * [Linux](#linux)
   * [Machine Learning](#machine-learning)
+  * [Python](#python)
+  * [Ruby](#ruby)
   * [Serverless](#serverless)
   * [Virtualization](#virtualization)
 
@@ -95,17 +97,17 @@ Table of Contents
   * [JavaScript Extension Toolkit (JET)](https://oracle.com/jet) - collection of open source JavaScript libraries
   * [GraalJS](https://www.graalvm.org/javascript/) - Run JavaScript applications faster and more efficiently on GraalVM
 
+## Linux
+  * [Oracle Linux](https://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
+
+## Machine Learning
+  * [Tribuo](https://tribuo.org/) - Machine learning library written in Java
+
 ## Python
   * [GraalPy](https://www.graalvm.org/python/) - High-Performance Python runtime powered by GraalVM
 
 ## Ruby
   * [TruffleRuby](https://www.graalvm.org/ruby/) - Run Ruby applications faster and more efficiently on GraalVM 
-
-## Machine Learning
-  * [Tribuo](https://tribuo.org/) - Machine learning library written in Java
-
-## Linux
-  * [Oracle Linux](https://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
 
 ## Serverless
   * [Fn Project](https://fnproject.io/) - open source container-native serverless platform
