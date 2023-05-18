@@ -46,7 +46,7 @@ Table of Contents
     * Management
       * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
       * Notifications - 1 million sent through https per month, 1000 sent through email per month
-      * Observability - Application Performance Monitoring, 1000 tracing events per hour
+      * Observability - Application Performance Monitoring, 1000 tracing events per hour and 10 Synthetic runs per hour
       * Resource Manager - managed Terraform
       * Logging - 10 GB per month (shared with VCN Flow Logs)
       * Service Connector Hub - 2 service connectors
@@ -56,7 +56,7 @@ Table of Contents
       * Object Storage Standard - 10 GB
       * Object Storage Infrequent Access - 10 GB
     * Other
-      * Email Delivery - 100 emails sent per day 
+      * Email Delivery - 3,000 emails sent per day 
       * 5 Private CA and 150 private TLS certificates
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
