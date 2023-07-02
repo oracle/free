@@ -4,7 +4,7 @@ Oracle offers many free technologies to developers as part of its comprehensive 
 
 Also, if you are looking for a list of all the open source projects that Oracle contributes to, check out [opensource.oracle.com](https://opensource.oracle.com).
 
-And make sure you also head over to [developer.oracle.com/free](https://developer.oracle.com/free) for additional great free developer resoruces from Oracle.
+And make sure you also head over to [developer.oracle.com/free](https://developer.oracle.com/free) for additional great free developer resources from Oracle.
 
 Table of Contents
 =================
