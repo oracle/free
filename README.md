@@ -69,7 +69,7 @@ Table of Contents
   * [MySQL Community Server](https://dev.mysql.com/) - the world's most popular open-source database
   * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/related/nosql.html) - for low latency, flexible data models and elastic scale
   * [Oracle Database Express Edition](https://www.oracle.com/database/technologies/appdev/xe.html) - the ideal way to get started with Oracle Database
-  * [Oracle Database Free – Developer Release](https://www.oracle.com/database/free/) - access to the newest features of the next-generation Oracle Database 
+  * [Oracle Database Free](https://www.oracle.com/database/free/) - access to the newest features of the next-generation Oracle Database 
   * [Oracle TimesTen In-Memory Database Express Edition](https://www.oracle.com/database/technologies/related/timesten-xe.html) - the fastest OLTP database
 
 ## Database Tools
