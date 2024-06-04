@@ -98,6 +98,7 @@ Table of Contents
 ## JavaScript
   * [JavaScript Extension Toolkit (JET)](https://oracle.com/jet) - collection of open source JavaScript libraries
   * [GraalJS](https://www.graalvm.org/javascript/) - Run JavaScript applications faster and more efficiently on GraalVM
+  * [node-oracledb](https://node-oracledb.readthedocs.io/en/latest/index.html) - A Node.js add-on module for high performance Oracle Database applications written in JavaScript or Typescript
 
 ## Linux
   * [Oracle Linux](https://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
@@ -108,6 +109,7 @@ Table of Contents
 
 ## Python
   * [GraalPy](https://www.graalvm.org/python/) - High-Performance Python runtime powered by GraalVM
+  * [python-oracledb](https://python-oracledb.readthedocs.io/en/latest/) - A Python extension module for high performance Oracle Database applications
 
 ## Ruby
   * [TruffleRuby](https://www.graalvm.org/ruby/) - Run Ruby applications faster and more efficiently on GraalVM 
