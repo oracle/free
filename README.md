@@ -1,16 +1,15 @@
 # Free Oracle technologies for Developers
 
-Oracle offers many free technologies to developers as part of its comprehensive product portfolio which are not always easy to find. This page provides you with a one-stop-shop list of all of them. And the best part, **you can help as well!** If you find a technology that is missing in this list or spot a mistake, please read the [Contributing Guide](CONTRIBUTING.md) and submit a [Pull Request](https://github.com/oracle/free/pulls).
+Oracle offers many free technologies to developers as part of its comprehensive product portfolio, which are not always easy to find. This page provides you with a one-stop shop list of all of them. And the best part, **you can help as well!** If you find a technology that is missing in this list or spot a mistake, please read the [Contributing Guide](CONTRIBUTING.md) and submit a [Pull Request](https://github.com/oracle/free/pulls).
 
-Also, if you are looking for a list of all the open source projects that Oracle contributes to, check out [opensource.oracle.com](https://opensource.oracle.com).
+Additionally, if you are seeking a comprehensive list of all the open-source projects that Oracle contributes to, visit [opensource.oracle.com](https://opensource.oracle.com).
 
-And make sure you also head over to [developer.oracle.com/free](https://developer.oracle.com/free) for additional great free developer resources from Oracle.
+Also, be sure to visit [oracle.com/developer/](https://oracle.com/developer/) for more great free developer resources from Oracle.
 
 Table of Contents
 =================
 
-  * [Cloud](#cloud) 
-  * [Container Platform](#container-platform)
+  * [Cloud](#cloud)
   * [Databases](#databases)
   * [Database Tools](#database-tools)
   * [Graph](#graph)
@@ -30,64 +29,64 @@ Table of Contents
     * Compute
       * Compute - 2 AMD based Compute VMs with 1/8 OCPU and 1 GB memory each
       * Compute - 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
-    * Content Management
-      * Content Management Starter Edition - 5000 assets per month
     * Databases
-      * Autonomous Database - 2 DBs, 20 GB each
-      * NoSQL Database with 133 million reads per month, 133 million writes per month, 25 GB storage per table, up to 3 tables
+      * Autonomous AI Database - 2 DBs, 20 GB each
+      * HeatWave - 1 standalone HeatWave instance, along with 50 GB of storage and 50 GB of backup storage
+      * NoSQL Database - 133 million reads per month, 133 million writes per month, 25 GB storage per table, up to 3 tables
+    * Developer Services
+      * APEX - 744 hours per instance
     * Network
-      * Flexible Load Balancer - 1 instance, 10 Mbps
-      * Flexible Network Load Balancer
+      * Flexible Network Load Balancer - 1 instance
+      * Load Balancer - 1 instance, 10 Mbps
       * Outbound Data Transfer - 10 TB per month
-      * Bastion service - 5 Bastions
+      * Service Connector Hub - 2 service connectors
       * Site-to-Site VPN - 50 IPSec connections
-      * VCN Flow Logs - 10 GB per month (shared with Logging)
-      * Virtual Cloud Networks (VCN) - maximum of 2 VCNs, includes IPv4 and IPv6 support
-    * Management
+      * VCN Flow Logs - 10 GB per month shared across OCI Logging services
+      * Virtual Cloud Networks (VCN) - 2 VCNs, includes IPv4 and IPv6 support
+    * Observability and Management
+      * Application Performance Monitoring - 1000 tracing events and 10 Synthetic Monitoring runs per hour
+      * Email Delivery - 100 emails sent per day
+      * Logging - 10 GB per month
       * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
       * Notifications - 1 million sent through https per month, 1000 sent through email per month
-      * Observability - Application Performance Monitoring, 1000 tracing events per hour and 10 Synthetic runs per hour
-      * Resource Manager - managed Terraform
-      * Logging - 10 GB per month (shared with VCN Flow Logs)
-      * Service Connector Hub - 2 service connectors
+    * Security
+      * Bastions - 5 OCI Bastions
+      * Certificates - 5 Private CA and 150 private TLS certificates
+      * Vault - 20 key versions of master encryption keys protected by a hardware security module (HSM) and 150 Always Free Vault secrets
     * Storage
-      * Archive Storage - 10 GB
-      * Block Volume - 2 volumes, 200 GB total
-      * Object Storage Standard - 10 GB
-      * Object Storage Infrequent Access - 10 GB
+      * Archive Storage - 20GB total for standard, infrequent and archive
+      * Block Volume Storage - 2 block volumes, 200 GB total, plus 5 volume backups
+      * Object Storage - 50,000 Object Storage API requests per month
+      * Object Storage-Standard - 20 GB total for standard, infrequent and archive
+      * Object Storage-Infrequent Access - 20 GB total for standard, infrequent and archive
     * Other
-      * Email Delivery - 3,000 emails sent per day 
-      * 5 Private CA and 150 private TLS certificates
+      * Console Dashboards - 100 dashboards
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
-    * Service Availability per region - https://www.oracle.com/cloud/data-regions/
-
-## Container Platform
-  * [Verrazzano](https://verrazzano.io/) - A hybrid multi-cloud Enterprise Container Platform
+    * Service Availability per region - https://www.oracle.com/cloud/distributed-cloud/service-availability/
 
 ## Databases
   * [MySQL Community Server](https://dev.mysql.com/) - the world's most popular open-source database
-  * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/related/nosql.html) - for low latency, flexible data models and elastic scale
-  * [Oracle Database Express Edition](https://www.oracle.com/database/technologies/appdev/xe.html) - the ideal way to get started with Oracle Database
-  * [Oracle Database Free](https://www.oracle.com/database/free/) - access to the newest features of the next-generation Oracle Database 
+  * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/nosql/) - for low latency, flexible data models and elastic scale
+  * [Oracle Database Express Edition](https://oracle.com/xe) - the ideal way to get started with Oracle Database
+  * [Oracle AI Database Free](https://www.oracle.com/database/free/) - access to the newest features of the next-generation Oracle Database 
   * [Oracle TimesTen In-Memory Database Express Edition](https://www.oracle.com/database/technologies/related/timesten-xe.html) - the fastest OLTP database
 
 ## Database Tools
   * [Application Express (APEX)](https://apex.oracle.com/) - a low-code development platform
   * [Developer Tools for Visual Studio](https://www.oracle.com/database/technologies/developer-tools/visual-studio/) - tightly integrated Oracle Database tools "Add-in"
-  * [Developer Tools for VS Code](https://www.oracle.com/database/technologies/appdev/dotnet/odtvscodequickstart.html) - tools for editing and executing SQL and PL/SQL in Oracle Database
-  * [MySQL Workbench](https://mysqlworkbench.org/) - cross-platform, visual database design tool for MySQL
-  * [REST Data Services (ORDS)](https://www.oracle.com/database/technologies/appdev/rest.html) - bridges HTTPS and your Oracle Database
+  * [MySQL Workbench](https://www.mysql.com/products/workbench/) - cross-platform, visual database design tool for MySQL
+  * [REST Data Services (ORDS)](https://www.oracle.com/rest) - bridges HTTPS and your Oracle Database
   * [SQLcl](https://www.oracle.com/database/technologies/appdev/sqlcl.html) - command line interface for Oracle Database
-  * [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - integrated development and management environment for Oracle Database
-  * [SQL Developer Data Modeler](https://www.oracle.com/database/technologies/appdev/datamodeler.html) - graphical tool that enhances productivity and simplifies data modeling tasks
+  * [SQL Developer](https://www.oracle.com/sqldeveloper) - integrated development and management environment for Oracle Database
+  * [SQL Developer Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/) - graphical tool that enhances productivity and simplifies data modeling tasks
+  * [SQL Developer Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) - End-to-end development tools for your SQL and PL/SQL applications
 
 ## Graph
   * [PGQL](https://pgql-lang.org/) - Property Graph Query Language
 
 ## In-Memory
   * [Coherence Community Edition](https://coherence.community/) - in-memory data grid
-  * [Oracle TimesTen In-Memory Database Express Edition](https://www.oracle.com/database/technologies/related/timesten-xe.html) - the fastest OLTP database
 
 ## Java
   * [GraalVM](https://www.graalvm.org/) - High Performance JDK with JIT and AOT compilation
@@ -103,35 +102,34 @@ Table of Contents
   * [Oracle Linux](https://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
 
 ## Machine Learning
-  * [Skater](https://oracle.github.io/Skater/) - Unified framework to enable ML Model Interpretation
   * [Tribuo](https://tribuo.org/) - Machine learning library written in Java
 
 ## Python
   * [GraalPy](https://www.graalvm.org/python/) - High-Performance Python runtime powered by GraalVM
 
 ## Ruby
-  * [TruffleRuby](https://www.graalvm.org/ruby/) - Run Ruby applications faster and more efficiently on GraalVM 
+  * [TruffleRuby](https://truffleruby.dev/) - Run Ruby applications faster and more efficiently on GraalVM 
 
 ## Serverless
   * [Fn Project](https://fnproject.io/) - open source container-native serverless platform
 
 ## Source Code Management
-  * [OpenGrok](https://oracle.github.io/opengrok/) - source code search and cross reference engine
+  * [OpenGrok](https://oracle.github.io/opengrok/) - source code search and cross-reference engine
 
 ## Virtualization
   * [VirtualBox](https://www.virtualbox.org/) - powerful x86 and AMD64/Intel64 virtualization product
 
 ## Contributing
 
-This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md)
+This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md).
 
 ## Security
 
-Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process
+Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process.
 
 ## License
 
-Copyright (c) 2023, 2024 Oracle and/or its affiliates.
+Copyright (c) 2023, 2026 Oracle and/or its affiliates.
 
 Released under the Universal Permissive License v1.0 as shown at
 <https://oss.oracle.com/licenses/upl/>.
