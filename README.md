@@ -30,34 +30,38 @@ Table of Contents
     * Compute
       * Compute - 2 AMD based Compute VMs with 1/8 OCPU and 1 GB memory each
       * Compute - 4 Arm-based Ampere A1 cores and 24 GB of memory usable as one VM or up to 4 VMs
-    * Content Management
-      * Content Management Starter Edition - 5000 assets per month
     * Databases
-      * Autonomous Database - 2 DBs, 20 GB each
-      * NoSQL Database with 133 million reads per month, 133 million writes per month, 25 GB storage per table, up to 3 tables
+      * Autonomous AI Database - 2 DBs, 20 GB each
+      * HeatWave - 1 standalone HeatWave instance, along with 50 GB of storage and 50 GB of backup storage
+      * NoSQL Database - 133 million reads per month, 133 million writes per month, 25 GB storage per table, up to 3 tables
+    * Developer Services
+      * APEX - 744 hours per instance
     * Network
-      * Flexible Load Balancer - 1 instance, 10 Mbps
-      * Flexible Network Load Balancer
+      * Flexible Network Load Balancer - 1 instance
+      * Load Balancer - 1 instance, 10 Mbps
       * Outbound Data Transfer - 10 TB per month
-      * Bastion service - 5 Bastions
+      * Service Connector Hub - 2 service connectors
       * Site-to-Site VPN - 50 IPSec connections
-      * VCN Flow Logs - 10 GB per month (shared with Logging)
-      * Virtual Cloud Networks (VCN) - maximum of 2 VCNs, includes IPv4 and IPv6 support
-    * Management
+      * VCN Flow Logs - 10 GB per month shared across OCI Logging services
+      * Virtual Cloud Networks (VCN) - 2 VCNs, includes IPv4 and IPv6 support
+    * Observability and Management
+      * Application Performance Monitoring - 1000 tracing events and 10 Synthetic Monitoring runs per hour
+      * Email Delivery - 100 emails sent per day
+      * Logging - 10 GB per month
       * Monitoring - 500 million ingestion datapoints, 1 billion retrieval datapoints
       * Notifications - 1 million sent through https per month, 1000 sent through email per month
-      * Observability - Application Performance Monitoring, 1000 tracing events per hour and 10 Synthetic runs per hour
-      * Resource Manager - managed Terraform
-      * Logging - 10 GB per month (shared with VCN Flow Logs)
-      * Service Connector Hub - 2 service connectors
+    * Security
+      * Bastions - 5 OCI Bastions
+      * Certificates - 5 Private CA and 150 private TLS certificates
+      * Vault - 20 key versions of master encryption keys protected by a hardware security module (HSM) and 150 Always Free Vault secrets
     * Storage
-      * Archive Storage - 10 GB
-      * Block Volume - 2 volumes, 200 GB total
-      * Object Storage Standard - 10 GB
-      * Object Storage Infrequent Access - 10 GB
+      * Archive Storage - 20GB total for standard, infrequent and archive
+      * Block Volume Storage - 2 block volumes, 200 GB total, plus 5 volume backups
+      * Object Storage - 50,000 Object Storage API requests per month
+      * Object Storage-Standard - 20 GB total for standard, infrequent and archive
+      * Object Storage-Infrequent Access - 20 GB total for standard, infrequent and archive
     * Other
-      * Email Delivery - 3,000 emails sent per day 
-      * 5 Private CA and 150 private TLS certificates
+      * Console Dashboards - 100 dashboards
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
     * Service Availability per region - https://www.oracle.com/cloud/data-regions/
