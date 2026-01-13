@@ -9,8 +9,7 @@ Also, be sure to visit [oracle.com/developer/](https://oracle.com/developer/) fo
 Table of Contents
 =================
 
-  * [Cloud](#cloud) 
-  * [Container Platform](#container-platform)
+  * [Cloud](#cloud)
   * [Databases](#databases)
   * [Database Tools](#database-tools)
   * [Graph](#graph)
@@ -64,34 +63,30 @@ Table of Contents
       * Console Dashboards - 100 dashboards
 
     * Full, detailed list - https://www.oracle.com/cloud/free/
-    * Service Availability per region - https://www.oracle.com/cloud/data-regions/
-
-## Container Platform
-  * [Verrazzano](https://verrazzano.io/) - A hybrid multi-cloud Enterprise Container Platform
+    * Service Availability per region - https://www.oracle.com/cloud/distributed-cloud/service-availability/
 
 ## Databases
   * [MySQL Community Server](https://dev.mysql.com/) - the world's most popular open-source database
-  * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/related/nosql.html) - for low latency, flexible data models and elastic scale
-  * [Oracle Database Express Edition](https://www.oracle.com/database/technologies/appdev/xe.html) - the ideal way to get started with Oracle Database
-  * [Oracle Database Free](https://www.oracle.com/database/free/) - access to the newest features of the next-generation Oracle Database 
+  * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/nosql/) - for low latency, flexible data models and elastic scale
+  * [Oracle Database Express Edition](https://oracle.com/xe) - the ideal way to get started with Oracle Database
+  * [Oracle AI Database Free](https://www.oracle.com/database/free/) - access to the newest features of the next-generation Oracle Database 
   * [Oracle TimesTen In-Memory Database Express Edition](https://www.oracle.com/database/technologies/related/timesten-xe.html) - the fastest OLTP database
 
 ## Database Tools
   * [Application Express (APEX)](https://apex.oracle.com/) - a low-code development platform
   * [Developer Tools for Visual Studio](https://www.oracle.com/database/technologies/developer-tools/visual-studio/) - tightly integrated Oracle Database tools "Add-in"
-  * [Developer Tools for VS Code](https://www.oracle.com/database/technologies/appdev/dotnet/odtvscodequickstart.html) - tools for editing and executing SQL and PL/SQL in Oracle Database
-  * [MySQL Workbench](https://mysqlworkbench.org/) - cross-platform, visual database design tool for MySQL
-  * [REST Data Services (ORDS)](https://www.oracle.com/database/technologies/appdev/rest.html) - bridges HTTPS and your Oracle Database
+  * [MySQL Workbench](https://www.mysql.com/products/workbench/) - cross-platform, visual database design tool for MySQL
+  * [REST Data Services (ORDS)](https://www.oracle.com/rest) - bridges HTTPS and your Oracle Database
   * [SQLcl](https://www.oracle.com/database/technologies/appdev/sqlcl.html) - command line interface for Oracle Database
-  * [SQL Developer](https://www.oracle.com/database/technologies/appdev/sqldeveloper-landing.html) - integrated development and management environment for Oracle Database
-  * [SQL Developer Data Modeler](https://www.oracle.com/database/technologies/appdev/datamodeler.html) - graphical tool that enhances productivity and simplifies data modeling tasks
+  * [SQL Developer](https://www.oracle.com/sqldeveloper) - integrated development and management environment for Oracle Database
+  * [SQL Developer Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/) - graphical tool that enhances productivity and simplifies data modeling tasks
+  * [SQL Developer Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) - End-to-end development tools for your SQL and PL/SQL applications
 
 ## Graph
   * [PGQL](https://pgql-lang.org/) - Property Graph Query Language
 
 ## In-Memory
   * [Coherence Community Edition](https://coherence.community/) - in-memory data grid
-  * [Oracle TimesTen In-Memory Database Express Edition](https://www.oracle.com/database/technologies/related/timesten-xe.html) - the fastest OLTP database
 
 ## Java
   * [GraalVM](https://www.graalvm.org/) - High Performance JDK with JIT and AOT compilation
@@ -107,35 +102,34 @@ Table of Contents
   * [Oracle Linux](https://yum.oracle.com/index.html) - 100% application binary compatible with Red Hat Enterprise Linux
 
 ## Machine Learning
-  * [Skater](https://oracle.github.io/Skater/) - Unified framework to enable ML Model Interpretation
   * [Tribuo](https://tribuo.org/) - Machine learning library written in Java
 
 ## Python
   * [GraalPy](https://www.graalvm.org/python/) - High-Performance Python runtime powered by GraalVM
 
 ## Ruby
-  * [TruffleRuby](https://www.graalvm.org/ruby/) - Run Ruby applications faster and more efficiently on GraalVM 
+  * [TruffleRuby](https://truffleruby.dev/) - Run Ruby applications faster and more efficiently on GraalVM 
 
 ## Serverless
   * [Fn Project](https://fnproject.io/) - open source container-native serverless platform
 
 ## Source Code Management
-  * [OpenGrok](https://oracle.github.io/opengrok/) - source code search and cross reference engine
+  * [OpenGrok](https://oracle.github.io/opengrok/) - source code search and cross-reference engine
 
 ## Virtualization
   * [VirtualBox](https://www.virtualbox.org/) - powerful x86 and AMD64/Intel64 virtualization product
 
 ## Contributing
 
-This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md)
+This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md).
 
 ## Security
 
-Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process
+Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process.
 
 ## License
 
-Copyright (c) 2023, 2024 Oracle and/or its affiliates.
+Copyright (c) 2023, 2026 Oracle and/or its affiliates.
 
 Released under the Universal Permissive License v1.0 as shown at
 <https://oss.oracle.com/licenses/upl/>.
