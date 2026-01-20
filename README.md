@@ -2,7 +2,7 @@
 
 Oracle offers many free technologies to developers as part of its comprehensive product portfolio, which are not always easy to find. This page provides you with a one-stop shop list of all of them. And the best part, **you can help as well!** If you find a technology that is missing in this list or spot a mistake, please read the [Contributing Guide](CONTRIBUTING.md) and submit a [Pull Request](https://github.com/oracle/free/pulls).
 
-Additionally, if you are seeking a comprehensive list of all the open-source projects that Oracle contributes to, visit [opensource.oracle.com](https://opensource.oracle.com).
+If you seek a comprehensive list of all the open-source projects that Oracle contributes to, visit [opensource.oracle.com](https://opensource.oracle.com).
 
 Also, be sure to visit [oracle.com/developer/](https://oracle.com/developer/) for more great free developer resources from Oracle.
 
@@ -10,6 +10,7 @@ Table of Contents
 =================
 
   * [Cloud](#cloud)
+  * [Cloud Native](#cloud-native)
   * [Databases](#databases)
   * [Database Tools](#database-tools)
   * [Graph](#graph)
@@ -65,6 +66,9 @@ Table of Contents
     * Full, detailed list - https://www.oracle.com/cloud/free/
     * Service Availability per region - https://www.oracle.com/cloud/distributed-cloud/service-availability/
 
+## Cloud Native
+  * [Cloud Native Environment](https://docs.oracle.com/en/operating-systems/olcne/) - fully integrated suite for the development and management of cloud-native applications
+
 ## Databases
   * [MySQL Community Server](https://dev.mysql.com/) - the world's most popular open-source database
   * [NoSQL Database Community Edition](https://www.oracle.com/database/technologies/nosql/) - for low latency, flexible data models and elastic scale
@@ -118,6 +122,7 @@ Table of Contents
 
 ## Virtualization
   * [VirtualBox](https://www.virtualbox.org/) - powerful x86 and AMD64/Intel64 virtualization product
+  * [Linux Virtualization Manager](https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/) - server virtualization management platform for Oracle Linux Kernel-based Virtual Machines (KVM)
 
 ## Contributing
 
