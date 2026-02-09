@@ -85,6 +85,7 @@ Table of Contents
   * [SQL Developer](https://www.oracle.com/sqldeveloper) - integrated development and management environment for Oracle Database
   * [SQL Developer Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/) - graphical tool that enhances productivity and simplifies data modeling tasks
   * [SQL Developer Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) - End-to-end development tools for your SQL and PL/SQL applications
+  * [Database Navigator for IntelliJ] (https://plugins.jetbrains.com/plugin/1800-database-navigator) - Comprehensive open-source database management tool for Java developers. Plugin has Select AI features, Vector toolbox support, AI-powered DB Assistant and many more. 
 
 ## Graph
   * [PGQL](https://pgql-lang.org/) - Property Graph Query Language
