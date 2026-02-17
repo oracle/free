@@ -96,8 +96,10 @@ Table of Contents
 
 ## Java
   * [GraalVM](https://www.graalvm.org/) - High Performance JDK with JIT and AOT compilation
+  * [Graal Development Kit for Micronaut](https://graal.cloud/gdk/) - a curated set of Micronaut modules for writing microservices
   * [Helidon](https://helidon.io) - a set of Java libraries for writing microservices
   * [Java](https://www.oracle.com/java/technologies/) - the Language of Possibilities
+  * [Micronaut](https://micronaut.io) - Modern JVM framework for cloud-native microservices
   * [VisualVM](https://visualvm.github.io/) - All-in-One Java Troubleshooting Tool
 
 ## JavaScript
