@@ -78,6 +78,7 @@ Table of Contents
 
 ## Database Tools
   * [Application Express (APEX)](https://apex.oracle.com/) - a low-code development platform
+  * [Database Navigator for IntelliJ](https://plugins.jetbrains.com/plugin/1800-database-navigator) - Open-source database management tool for IntelliJ users
   * [Developer Tools for Visual Studio](https://www.oracle.com/database/technologies/developer-tools/visual-studio/) - tightly integrated Oracle Database tools "Add-in"
   * [MySQL Workbench](https://www.mysql.com/products/workbench/) - cross-platform, visual database design tool for MySQL
   * [REST Data Services (ORDS)](https://www.oracle.com/rest) - bridges HTTPS and your Oracle Database
@@ -85,7 +86,6 @@ Table of Contents
   * [SQL Developer](https://www.oracle.com/sqldeveloper) - integrated development and management environment for Oracle Database
   * [SQL Developer Data Modeler](https://www.oracle.com/database/sqldeveloper/technologies/sql-data-modeler/) - graphical tool that enhances productivity and simplifies data modeling tasks
   * [SQL Developer Extension for VSCode](https://marketplace.visualstudio.com/items?itemName=Oracle.sql-developer) - End-to-end development tools for your SQL and PL/SQL applications
-  * [Database Navigator for IntelliJ](https://plugins.jetbrains.com/plugin/1800-database-navigator) - Open-source database management tool for IntelliJ users
 
 ## Graph
   * [PGQL](https://pgql-lang.org/) - Property Graph Query Language
