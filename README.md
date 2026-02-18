@@ -100,6 +100,7 @@ Table of Contents
   * [Helidon](https://helidon.io) - a set of Java libraries for writing microservices
   * [Java](https://www.oracle.com/java/technologies/) - the Language of Possibilities
   * [Micronaut](https://micronaut.io) - Modern JVM framework for cloud-native microservices
+  * [TamboUI](https://tamboui.dev) - an open-source Terminal UI framework for Java
   * [VisualVM](https://visualvm.github.io/) - All-in-One Java Troubleshooting Tool
 
 ## JavaScript
