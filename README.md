@@ -20,10 +20,11 @@ Table of Contents
   * [Linux](#linux)
   * [Machine Learning](#machine-learning)
   * [Python](#python)
-  * [Ruby](#ruby)
+  * [Regular Expressions](#regular-expressions)
   * [Serverless](#serverless)
   * [Source Code Management](#source-code-management)
   * [Virtualization](#virtualization)
+  * [WebAssembly](#webassembly)
 
 ## Cloud
   * [Oracle Cloud Always Free Tier](https://www.oracle.com/cloud/free/)
@@ -95,8 +96,11 @@ Table of Contents
 
 ## Java
   * [GraalVM](https://www.graalvm.org/) - High Performance JDK with JIT and AOT compilation
+  * [Graal Development Kit for Micronaut](https://graal.cloud/gdk/) - a curated set of Micronaut modules for writing microservices
   * [Helidon](https://helidon.io) - a set of Java libraries for writing microservices
   * [Java](https://www.oracle.com/java/technologies/) - the Language of Possibilities
+  * [Micronaut](https://micronaut.io) - Modern JVM framework for cloud-native microservices
+  * [TamboUI](https://tamboui.dev) - an open-source Terminal UI framework for Java
   * [VisualVM](https://visualvm.github.io/) - All-in-One Java Troubleshooting Tool
 
 ## JavaScript
@@ -112,8 +116,8 @@ Table of Contents
 ## Python
   * [GraalPy](https://www.graalvm.org/python/) - High-Performance Python runtime powered by GraalVM
 
-## Ruby
-  * [TruffleRuby](https://truffleruby.dev/) - Run Ruby applications faster and more efficiently on GraalVM 
+## Regular Expressions
+  * [TRegex](https://github.com/oracle/graal/tree/master/regex) - High-Performance regular expression engine powered by GraalVM
 
 ## Serverless
   * [Fn Project](https://fnproject.io/) - open source container-native serverless platform
@@ -124,6 +128,9 @@ Table of Contents
 ## Virtualization
   * [VirtualBox](https://www.virtualbox.org/) - powerful x86 and AMD64/Intel64 virtualization product
   * [Linux Virtualization Manager](https://docs.oracle.com/en/virtualization/oracle-linux-virtualization-manager/) - server virtualization management platform for Oracle Linux Kernel-based Virtual Machines (KVM)
+
+## WebAssembly
+  * [GraalWasm](https://www.graalvm.org/webassembly) - High-performance WebAssembly runtime powered by GraalVM
 
 ## Contributing
 
